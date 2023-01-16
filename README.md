@@ -10,6 +10,6 @@ Primeiro projeto da formação Front End
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![blob:https://vercel.com/96a11262-b19d-445b-b902-5e751d326f05#vitrinedev]
+![https://vercel.com/96a11262-b19d-445b-b902-5e751d326f05#vitrinedev]
 
 
